@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lab3</string>
     <string name="action_settings">Settings</string>
-    <string name="StartingValue">0</string>
+    <string name="StartingValue"></string>
     <string name="_9">9</string>
     <string name="minusbuttonname">-</string>
     <string name="plusname">+</string>
